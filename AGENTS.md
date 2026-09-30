@@ -13,6 +13,10 @@ Use the `system.ai.dbsql` MCP tool to run SQL queries against Unity Catalog
 tables. Do NOT use the Databricks CLI or shell commands for data access — they
 will be blocked by network policies.
 
+Do NOT inspect Git history, commit logs, diffs, deleted files, or prior commits
+to infer data quality issues. Investigate using only current production data,
+current pipeline code, and current repo contents.
+
 ## Data Context
 
 ### Discovering the catalog
