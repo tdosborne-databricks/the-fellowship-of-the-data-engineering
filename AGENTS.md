@@ -82,8 +82,8 @@ via Jira using the `fo_omnigent_demo_jira_mcp` MCP service:
 1. Create a **Bug** ticket in the **FEINFRA** project
 2. Include: summary of findings, what data was inaccessible and why it matters,
    and a link to this Omnigent session so a colleague can continue
-3. Tag `jenni.wu@databricks.com` as the assignee — she has `palantir_bearers`
-   access and can see the full dataset
+3. Tag `jenni.wu@databricks.com` or `ash.kulkarni@databricks.com` as the
+   assignee — both are `palantir_bearers` members and can see the full dataset
 
 ## Repo Layout
 
